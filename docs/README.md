@@ -15,4 +15,4 @@ The above URLs are all for the master branch latest version. Click the drop-down
 
 # Building Documentation
 
-The documentation is built using the python package `esp-docs`, which can be installed by running `pip install esp-docs`. Running `build-docs --help` will give a summary of available options. For more information see the `esp-docs` documentation at https://github.com/espressif/esp-docs/blob/master/README.md
+The documentation is built using the python package `esp-docs`, which can be installed by running `pip install esp-docs`. Running `build-docs --help` will give a summary of available options. For more information see the `esp-docs` documentation at https://github.com/espressif/esp-docs/blob/master/README.md 
